@@ -33,3 +33,5 @@ Run the transpiler using the command ./mycompiler < your_lambda_file.la.
 If the Lambda code is valid, the equivalent C code will be generated in a file named your_lambda_file.c.
 Compile the generated C code using GCC: gcc -std=c99 -Wall your_lambda_file.c -o your_lambda_file.
 Run the executable: ./your_lambda_file.
+
+### Grade: 9.5/10
